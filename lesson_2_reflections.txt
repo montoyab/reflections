@@ -4,4 +4,4 @@ You may also wish to run git status after you have created the file. You should 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-
+s
